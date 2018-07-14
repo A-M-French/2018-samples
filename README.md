@@ -11,7 +11,5 @@ Please contact me via E-Mail or LinkedIn inMail with any questions; thank you.
 
 
 Allan M. French
-
 ▶ Data Analyzed ● Beans Counted ● Numbers Crunched ◀
-
 <http://www.linkedin.com/in/AllanMFrench>
