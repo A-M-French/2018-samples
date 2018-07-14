@@ -1,6 +1,7 @@
 # 2018-samples
-Work samles for public viewing
+Work samples for public viewing
 
-This is my first GitHub edit. 2018-07-13.
 
-And here is a second line for it.
+Herein are Excel files that anyone is welcome to view.  They are meant to showcase my spreadsheet abilities.
+
+I am BRAND NEW to GitHub.  Please contact me via E-Mail or LinkedIn inMail with any questions.  Thank you.
