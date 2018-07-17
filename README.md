@@ -1,6 +1,8 @@
 # 2018-samples
 
-This folder contains the following files.  This is intended for hiring managers, potential colleagues,
+This folder contains the following files.
+
+This is intended for hiring managers, potential colleagues,
 and professionals, to aid you in evaluating my technical capabilities and my past employment.
 
 
