@@ -1,15 +1,43 @@
 # 2018-samples
-This folder contains WORK SAMPLES for public viewing.
 
-Herein are Excel and PowerPoint files that anyone is welcome to view.  They are meant to showcase my spreadsheet abilities and my slideshow presentation abilities, respectively.  Some of the Excel files may contain material that is "under construction."
+This folder contains the following files.  This is intended for hiring managers, potential colleagues,
+and professionals, to aid you in evaluating my technical capabilities and my past employment.
 
-PDF and MS Word documents can be viewed or downloaded at 
-<https://www.dropbox.com/sh/c030zpmj4fwkyk8/AACtgSRt4e2DLgGZRlz8RDTua>.  
-Copies of the Excel and PowerPoint files are there as well (so anyone can access them, even without a GitHub account).
+
+== ATS Resume ==
+An ATS-compliant résumé, presented in the traditional chronological layout
+(ATS = Applicant Tracking System, an HR management software, used by medium-/large-size
+companies; this layout includes dates and duties for all jobs cited in my LinkedIn profile)
+(While it has "good information," it is lengthy.  It is NOT meant for human consumption; but
+your ATS computer will love it!)
+
+
+== Chronology ==
+Complete chronology of my past employment (Excel-based list; not a résumé)
+(Cites industry and size of company, P/T or F/T role, which software was used, etc)
+(See the spreadsheet for additional comments)
+
+
+== Commendations  ==
+Previews of my professional references, plus examples of recognition and special achievement
+
+
+== Course Certificates ==
+Certificates for various online coursework, plus details of my planned future training
+
+
+== Excel Samples ==
+Various Excel spreadsheet projects that you can review, on multiple workbook tabs
+
+
+== PowerPoint Samples ==
+A few slides each from two PowerPoint slideshow presentations, that you can watch
+I don't think their subject matter will interest many people, so I've included only a few slides.
+They are here to DEMONSTRATE that I have indeed used PowerPoint for business purposes.
+If you wish to see the complete presentations, let me know.
+
 
 Please contact me via E-Mail or LinkedIn inMail with any questions; thank you.
-
-
 Allan M. French
 ▶ Data Analyzed ● Beans Counted ● Numbers Crunched ◀
 <http://www.linkedin.com/in/AllanMFrench>
