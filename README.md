@@ -2,15 +2,19 @@ This folder contains the following files.  This is intended for hiring managers,
 and professionals, to aid you in evaluating my technical capabilities and my past employment.
 
 Analyst + Accountant
+
 Cover letter and two-page resume
 
 Backgrounder
+
 As many facts and tidbits as I could cram into just one page, mixing together professional and leisure information
 (Cites industry and size of company, P/T or F/T role, which software was used, etc)
 (See the spreadsheet for additional comments)
 
 Chronology
+
 Complete chronology of my past employment (Excel-based list; not a résumé)
+
 (Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments)
 
 Commendations
