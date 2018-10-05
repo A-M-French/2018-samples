@@ -5,36 +5,23 @@ and professionals, to aid you in evaluating my technical capabilities and my pas
 Cover letter and two-page resume
 
 == Backgrounder ==
-As many facts and tidbits as I could cram into just one page, mixing together professional and leisure information
-(Cites industry and size of company, P/T or F/T role, which software was used, etc)
-(See the spreadsheet for additional comments)
+As many facts and tidbits as I could cram into just one page, mixing together professional and leisure information.  Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments.
 
-Chronology
+== Chronology == Complete chronology of my past employment Excel-based list; not a résumé.  Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments.
 
-Complete chronology of my past employment (Excel-based list; not a résumé)
+== Commendations == Previews of my professional references, plus examples of recognition and special achievement.
 
-(Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments)
+== Course Certificates == Certificates for various online coursework, plus details of my planned future training.  Also see "Courses Taken Since BS," which aggregates my academic experience since college graduation.
 
-Commendations
-Previews of my professional references, plus examples of recognition and special achievement.
+== Excel Samples == Various Excel spreadsheet projects that you can review, on multiple workbook tabs.
 
-Course Certificates
-Certificates for various online coursework, plus details of my planned future training.
-(Also see "Courses Taken Since BS," which aggregates my academic experience since college graduation.)
+== Just For Fun == Cartoons and jokes I've acquired, pertaining to finance, accounting, data analytics, mathematics, computer science, etc.  Obviously, feel free to ignore this document entirely.
 
-Excel Samples
-Various Excel spreadsheet projects that you can review, on multiple workbook tabs.
-
-Just For Fun
-Cartoons and jokes I've acquired, pertaining to finance, accounting, data analytics, mathematics, computer science, etc.  Obviously, feel free to ignore this document entirely.
-
-PowerPoint Samples
-A few slides each from two PowerPoint slideshow presentations, that you can watch.
-I don't think their subject matter will interest many people, so I've included only a few slides.  They are here to DEMONSTRATE that I have indeed used PowerPoint for business purposes.  If you wish to see the complete presentations, let me know.
-
+== PowerPoint Samples == A few slides each from two PowerPoint slideshow presentations, that you can watch.  I don't think their subject matter will interest many people, so I've included only a few slides.  They are here to DEMONSTRATE that I have indeed used PowerPoint for business purposes.  If you wish to see the complete presentations, let me know.
 
 
 Please contact me via E-Mail or LinkedIn inMail with any questions; thank you.
+
 
 Allan M. French
 ▶  Numbers Crunched  ●  Beans Counted  ●  Data Wrangled  ◀
