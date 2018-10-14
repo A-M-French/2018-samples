@@ -8,7 +8,7 @@ This folder contains the following files.  This is intended for hiring managers,
 
 == Commendations == Previews of my professional references, plus examples of recognition and special achievement.
 
-== Course Certificates == Certificates for various online coursework, plus details of my planned future training.  Also see "Courses Taken Since BS," which aggregates my academic experience since college graduation.
+'== Course Certificates == Certificates for various online coursework, plus details of my planned future training.  (UPON REQUEST, I will provide "Courses Since College," which aggregates all of my academic experiences since attaining my BS regree in Finance.)
 
 == Excel Samples == Various Excel spreadsheet projects that you can review, on multiple workbook tabs.
 
