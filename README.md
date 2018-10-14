@@ -2,7 +2,7 @@ This folder contains the following files.  This is intended for hiring managers,
 
 ❶ Data Analyst + Staff Accountant ❶ 
 
-Cover letter and two-page resume.
+My "default" cover letter and a two-page resume.
 
 ❷ Backgrounder ❷ 
 
