@@ -1,14 +1,18 @@
+
+
 This folder contains the following files.  This is intended for hiring managers, potential colleagues, and professionals, to aid you in evaluating my technical capabilities and my past employment.
 
 == Data Analyst + Staff Accountant == Cover letter and two-page resume.
 
 == Backgrounder == As many facts and tidbits as I could cram into just one page, mixing together professional and leisure information.  Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments.
 
-== Chronology == Complete chronology of my past employment Excel-based list; not a résumé.  Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments.
+== Chronology == Complete chronology of all my past employment, in an Excel-based list.  It is not a résumé, per se.  It cites industry and size of company, P/T or F/T role, which software was used, etc.  I have decided to remove it from self-serve access; please CONTACT ME to obtain this document.
 
 == Commendations == Previews of my professional references, plus examples of recognition and special achievement.
 
-'== Course Certificates == Certificates for various online coursework, plus details of my planned future training.  (UPON REQUEST, I will provide "Courses Since College," which aggregates all of my academic experiences since attaining my BS regree in Finance.)
+'== Course Certificates == Certificates for various online coursework, plus details of my planned future training.
+
+'== Course Since College ==  A list that aggregates all of my academic experiences since attaining my BS degree in Finance.   I have decided to remove it from self-serve access; please CONTACT ME to obtain this document.
 
 == Excel Samples == Various Excel spreadsheet projects that you can review, on multiple workbook tabs.
 
