@@ -10,15 +10,15 @@ This folder contains the following files.  This is intended for hiring managers,
 
 ●● Commendations ●● Previews of my professional references, plus examples of recognition and special achievement.
 
-▶ Course Certificates ◀ Certificates for various online coursework, plus details of my planned future training.
+●● Course Certificates ●● Certificates for various online coursework, plus details of my planned future training.
 
-▶ Course Since College ◀  A list that aggregates all of my academic experiences since attaining my BS degree in Finance.   I have decided to remove it from self-serve access; please CONTACT ME to obtain this document.
+●● Course Since College ●●  A list that aggregates all of my academic experiences since attaining my BS degree in Finance.   I have decided to remove it from self-serve access; please CONTACT ME to obtain this document.
 
-▶ Excel Samples ◀ Various Excel spreadsheet projects that you can review, on multiple workbook tabs.
+●● Excel Samples ●● Various Excel spreadsheet projects that you can review, on multiple workbook tabs.
 
-▶ Just For Fun ◀ Cartoons and jokes I've acquired, pertaining to finance, accounting, data analytics, mathematics, computer science, etc.  Obviously, feel free to ignore this document entirely.
+●● Just For Fun ●● Cartoons and jokes I've acquired, pertaining to finance, accounting, data analytics, mathematics, computer science, etc.  Obviously, feel free to ignore this document entirely.
 
-▶ PowerPoint Samples ◀ A few slides each from two PowerPoint slideshow presentations, that you can watch.  I don't think their subject matter will interest many people, so I've included only a few slides.  They are here to DEMONSTRATE that I have indeed used PowerPoint for business purposes.  If you wish to see the complete presentations, let me know.
+●● PowerPoint Samples ●● A few slides each from two PowerPoint slideshow presentations, that you can watch.  I don't think their subject matter will interest many people, so I've included only a few slides.  They are here to DEMONSTRATE that I have indeed used PowerPoint for business purposes.  If you wish to see the complete presentations, let me know.
 
 
 Please contact me via E-Mail or LinkedIn inMail with any questions; thank you.
