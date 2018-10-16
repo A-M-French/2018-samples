@@ -4,11 +4,11 @@ This folder contains the following files.  This is intended for hiring managers,
 
 My "default" cover letter and a two-page resume.
 
-❷ Backgrounder ❷ 
+❷ One-Page Backgrounder ❷ 
 
 As many facts and tidbits as I could cram into just one page, mixing together professional and leisure information.  Cites industry and size of company, P/T or F/T role, which software was used, etc.  See the spreadsheet for additional comments.
 
-❸ Chronology ❸ 
+❸ Career Chronology ❸ 
 
 Complete chronology of all my past employment, in an Excel-based list.  It is not a résumé, per se.  It cites industry and size of company, P/T or F/T role, which software was used, etc.  I have decided to remove it from self-serve access; please CONTACT ME to obtain this document.
 
@@ -16,11 +16,11 @@ Complete chronology of all my past employment, in an Excel-based list.  It is no
 
 Previews of my professional references, plus examples of recognition and special achievement.
 
-❺ Course Certificates ❺ 
+❺ Online Course Certificates ❺ 
 
 Certificates for various online coursework, plus details of my planned future training.
 
-❻ Course Since College ❻  
+❻ Courses Since College ❻  
 
 A list that aggregates all of my academic experiences since attaining my BS degree in Finance.   I have decided to remove it from self-serve access; please CONTACT ME to obtain this document.
 
